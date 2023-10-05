@@ -43,7 +43,7 @@
     "eslint": "^7.14.0",
     "eslint-config-riot": "^3.0.0",
     "esm": "^3.2.25",
-    "mocha": "^8.2.1",
+    "mocha": "^10.2.0",
     "rollup": "^2.33.3",
     "webpack": "^5.6.0"
   }
